@@ -1,2 +1,2 @@
 # portofolio
-My Profile
+Simple portofolio :v
